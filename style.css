@@ -6,17 +6,24 @@
 	font-size:18px;
 }
 
-.news {
-	margin-top:30px;
-    width: 512px;
-}
-  
-.news > .mdl-card__title {
-    color: #FFF;
-    height: 176px;
-    background-color: #66CC33;
+.nav > a{
+	font-size:18px;
 }
 
-.news > .mdl-card__menu {
-    color: #fff;
+.news {
+	margin-top:30px;
+}
+
+.sub-title {
+	background-color:#6C3;
+	color:#FFF;
+	padding-left:20px;
+}
+
+.news-list {
+	margin-top:0;
+}
+
+.news-list > ul {
+	list-style-type:none;
 }
