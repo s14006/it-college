@@ -27,3 +27,7 @@
 .news-list > ul {
 	list-style-type:none;
 }
+
+.card {
+	word-break:keep-all;
+}
