@@ -23,7 +23,7 @@
 
 .sub-title {
 	background-color:#6C3;
-	box-shadow:0px 2px 3px #888 , 0px 0px 2px #CCC;
+	box-shadow:-2px 3px 3px #CCC , 1px -1px 2px #CCC;
 	color:#FFF;
 	padding-left:20px;
 }
@@ -41,9 +41,34 @@
 	word-break:keep-all;
 }
 
+.card-title {
+	color:#FFF;
+	height:200px;
+}
 
 .card-list {
 	border-left:solid 2px #CCC;
 	list-style-type:none;
 	padding-left:5px;
+}
+
+.network {
+	background-color:#36C;
+	font-weight: bold;
+}
+
+.engineers {
+	background-color:#939;
+}
+
+.specialist {
+	background-color:#099;
+}
+
+.creater {
+	background-color:#3C0;
+}
+
+.japanese {
+	background-color:#FC3;
 }
